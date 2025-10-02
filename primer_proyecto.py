@@ -1,1 +1,7 @@
-print("Este signo \\ es una barra invertida")
+print("Hola" + ' Fede')
+print('Hola mundo')
+print("Me llamo \"Federico\"")
+print("Esta es una linea\nY esta es otra linea")
+print("\tEsta es la tercera linea")
+print('This isn\'t a number')
+print('Este signo \\ es una barra invertida')
